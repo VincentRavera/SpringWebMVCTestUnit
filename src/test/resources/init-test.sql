@@ -1,0 +1,10 @@
+insert into Personne (id, nom, prenom) values (1, "Dupuis", "Paul");
+insert into Personne (id, nom, prenom) values (2, "Dupont", "Pauline");
+insert into Personne (id, nom, prenom) values (3, "Dupuis", "Pauline");
+insert into Personne (id, nom, prenom) values (4, "Dupont", "Paul");
+insert into Personne (id, nom, prenom) values (5, "Colada", "Pina");
+insert into Personne (id, nom, prenom) values (6, "Moalescouilles", "David");
+insert into Personne (id, nom, prenom) values (7, "Bonno", "Jean");
+insert into Personne (id, nom, prenom) values (8, "Ohrhum", "Baba");
+insert into Personne (id, nom, prenom) values (9, "Taaan", "Rosanne");
+insert into Personne (id, nom, prenom) values (10, "Toun", "Rosane");
